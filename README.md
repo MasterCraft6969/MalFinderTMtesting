@@ -60,7 +60,15 @@ If you're worried about downloading a file or clicking on a link, this bot can h
 (placeholder of image of the bot in action)
 
 ## Contributing
-Adding usernames of contributors here later.
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/972218395955171381?theme=dark&bg=301ecf&animated=true&hideDiscrim=false&showDisplayName=true&borderRadius=30px&idleMessage=Nothing%20to%20see%20here%20yet...)](https://discord.com/users/972218395955171381)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1131568595369996379?theme=dark&bg=301ecf&animated=true&hideDiscrim=false&showDisplayName=true&borderRadius=30px&idleMessage=Nothing%20to%20see%20here%20yet...)](https://discord.com/users/1131568595369996379)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/591534252307513347?theme=dark&bg=301ecf&animated=true&hideDiscrim=false&showDisplayName=true&borderRadius=30px&idleMessage=Nothing%20to%20see%20here%20yet...)](https://discord.com/users/591534252307513347)
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1031660128962875464?theme=dark&bg=301ecf&animated=true&hideDiscrim=false&showDisplayName=true&borderRadius=30px&idleMessage=Nothing%20to%20see%20here%20yet...)](https://discord.com/users/1031660128962875464)
+
 
 ## License
 
