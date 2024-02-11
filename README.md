@@ -9,9 +9,19 @@ MalFinder™ is a bot that can automatically scan the given links and files for 
 > [!WARNING]
 > VirusTotal does not have 100% accuracy. False positives and false negatives can occur so always stay vigilant and cautious.
 
-## Getting Started
+~~## Getting Started~~
+
+## Features
+
+- Scan all files and links with VirusTotal
+- logs everything into whatever 
+- lorem ipsum
+
+## Basic overview 
 
 This bot uses VirusTotal's API to scan your links or files automatically inside Discord. You heard it right! No longer do you need to leave Discord. Just send a link or file anywhere the bot can read messages and it'll start getting the scanned results to you as soon as it can. The bot will log all its scanned files, links, and errors into a file named log.txt and will print them out as well.
+
+we need to change the logging text above to our new system 
 
 ### Installing
 
