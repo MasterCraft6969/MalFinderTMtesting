@@ -67,7 +67,7 @@ If you're worried about downloading a file or clicking on a link, this bot can h
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/591534252307513347?theme=dark&bg=301ecf&animated=true&hideDiscrim=false&showDisplayName=true&borderRadius=30px&idleMessage=Nothing%20to%20see%20here%20yet...)](https://discord.com/users/591534252307513347)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1031660128962875464?theme=dark&bg=301ecf&animated=true&hideDiscrim=false&showDisplayName=true&borderRadius=30px&idleMessage=Nothing%20to%20see%20here%20yet...)](https://discord.com/users/1031660128962875464)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/?theme=dark&bg=301ecf&animated=true&hideDiscrim=false&showDisplayName=true&borderRadius=30px&idleMessage=Nothing%20to%20see%20here%20yet...)](https://discord.com/users/)
 
 
 ## License
